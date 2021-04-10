@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <totalUndiscountedUtility>0.999940636468954</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.999940636468954</totalDiscountedUtility>
+        <numberOfSessions>1</numberOfSessions>
+        <totalNashDist>0.05805737484849506</totalNashDist>
+        <totalWelfare>1.8602654672638457</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.999940636468954</meanDiscounted>
+        <meanNashDistance>0.05805737484849506</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>0.999940636468954</meanUndiscounted>
+        <meanWelfare>1.8602654672638457</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>agents.anac.y2011.IAMhaggler2011.IAMhaggler2011</agentname>
+        <totalUndiscountedUtility>0.8603248307948916</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.8603248307948916</totalDiscountedUtility>
+        <numberOfSessions>1</numberOfSessions>
+        <totalNashDist>0.05805737484849506</totalNashDist>
+        <totalWelfare>1.8602654672638457</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.8603248307948916</meanDiscounted>
+        <meanNashDistance>0.05805737484849506</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>0.8603248307948916</meanUndiscounted>
+        <meanWelfare>1.8602654672638457</meanWelfare>
+    </statistics>
+</agentsStatistics>

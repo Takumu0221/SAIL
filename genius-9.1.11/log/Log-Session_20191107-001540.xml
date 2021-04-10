@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Agent1@0:java.lang.NullPointerException: null" currentTime="Thu Nov 07 00:15:40 JST 2019" lastAction="null" bids="0" runtime="0.0259491" deadline="1000rounds">
+<resultsOfAgent agent="Agent1" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\takum\IdeaProjects\SAIL\out\production\SAIL\Agent1.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Group2" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2015.group2.Group2" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

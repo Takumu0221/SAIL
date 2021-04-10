@@ -1,0 +1,391 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome runtime="9.5409882" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent1@6" currentTime="Thu Nov 21 00:00:24 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3894" deadline="1000rounds">
+<resultsOfAgent agent="Agent1@6" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent1" finalUtility="0.6516666666666666" discountedUtility="0.6516666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@7" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.19062454341760504" discountedUtility="0.19062454341760504" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@8" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.906562427210441" discountedUtility="0.906562427210441" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@9" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9404753000000001" discountedUtility="0.9404753000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="16.3842833" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent2@10" currentTime="Thu Nov 21 00:00:40 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3897" deadline="1000rounds">
+<resultsOfAgent agent="Agent2@10" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent2" finalUtility="0.5666666666666667" discountedUtility="0.5666666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@11" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.3609668810394907" discountedUtility="0.3609668810394907" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@12" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.8890967632798443" discountedUtility="0.8890967632798443" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@13" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.976189575" discountedUtility="0.976189575" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="16.3599793" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help]" startingAgent="Agent3@14" currentTime="Thu Nov 21 00:00:56 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help])" domain="etc/templates/partydomain/party_domain.xml" bids="3887" deadline="1000rounds">
+<resultsOfAgent agent="Agent3@14" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent3" finalUtility="0.7091666666666666" discountedUtility="0.7091666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@15" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.4726898386286933" discountedUtility="0.4726898386286933" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@16" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.8242987549097534" discountedUtility="0.8242987549097534" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@17" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9642848500000001" discountedUtility="0.9642848500000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="9.3043551" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="RandomBidderExample@18" currentTime="Thu Nov 21 00:01:06 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3910" deadline="1000rounds">
+<resultsOfAgent agent="RandomBidderExample@18" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="RandomBidderExample" finalUtility="0.6141666666666666" discountedUtility="0.6141666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@19" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.3718686675254122" discountedUtility="0.3718686675254122" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@20" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.9336368949374793" discountedUtility="0.9336368949374793" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@21" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.95238005" discountedUtility="0.95238005" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="15.9515395" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help]" startingAgent="Agent1@22" currentTime="Thu Nov 21 00:01:22 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help])" domain="etc/templates/partydomain/party_domain.xml" bids="3872" deadline="1000rounds">
+<resultsOfAgent agent="Agent1@22" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent1" finalUtility="0.7466666666666667" discountedUtility="0.7466666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@23" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.2914457145208862" discountedUtility="0.2914457145208862" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@24" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.7972242871827151" discountedUtility="0.7972242871827151" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@25" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9523801000000001" discountedUtility="0.9523801000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="21.1849447" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Special Equiment]" startingAgent="Agent2@26" currentTime="Thu Nov 21 00:01:43 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3859" deadline="1000rounds">
+<resultsOfAgent agent="Agent2@26" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent2" finalUtility="0.5508333333333333" discountedUtility="0.5508333333333333" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@27" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.4439431513391262" discountedUtility="0.4439431513391262" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@28" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.9588854050078842" discountedUtility="0.9588854050078842" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@29" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.85714205" discountedUtility="0.85714205" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="22.5948678" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent3@30" currentTime="Thu Nov 21 00:02:06 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3856" deadline="1000rounds">
+<resultsOfAgent agent="Agent3@30" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent3" finalUtility="0.6708333333333333" discountedUtility="0.6708333333333333" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@31" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.3072252965760272" discountedUtility="0.3072252965760272" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@32" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.7146605953577032" discountedUtility="0.7146605953577032" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@33" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9285706" discountedUtility="0.9285706" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="15.7282679" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Photo, Music: DJ, Cleanup: Special Equiment]" startingAgent="RandomBidderExample@34" currentTime="Thu Nov 21 00:02:21 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Photo, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3904" deadline="1000rounds">
+<resultsOfAgent agent="RandomBidderExample@34" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="RandomBidderExample" finalUtility="0.5916666666666667" discountedUtility="0.5916666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@35" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.19619949548693877" discountedUtility="0.19619949548693877" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@36" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.8697578577605313" discountedUtility="0.8697578577605313" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@37" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9523800750000001" discountedUtility="0.9523800750000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="15.7969019" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent1@38" currentTime="Thu Nov 21 00:02:37 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3772" deadline="1000rounds">
+<resultsOfAgent agent="Agent1@38" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent1" finalUtility="0.7466666666666667" discountedUtility="0.7466666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@39" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent3" finalUtility="0.26693704881905567" discountedUtility="0.26693704881905567" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@40" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.7729420322375361" discountedUtility="0.7729420322375361" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@41" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9880943500000001" discountedUtility="0.9880943500000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="21.0725708" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent2@42" currentTime="Thu Nov 21 00:02:58 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3760" deadline="1000rounds">
+<resultsOfAgent agent="Agent2@42" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent2" finalUtility="0.7341666666666667" discountedUtility="0.7341666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@43" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent3" finalUtility="0.2834137873743109" discountedUtility="0.2834137873743109" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@44" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.7806775944452613" discountedUtility="0.7806775944452613" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@45" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9761896000000001" discountedUtility="0.9761896000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="21.0370506" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent3@46" currentTime="Thu Nov 21 00:03:20 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3764" deadline="1000rounds">
+<resultsOfAgent agent="Agent3@46" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent3" finalUtility="0.7466666666666667" discountedUtility="0.7466666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@47" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent3" finalUtility="0.26693704881905567" discountedUtility="0.26693704881905567" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@48" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.7729420322375361" discountedUtility="0.7729420322375361" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@49" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9880943500000001" discountedUtility="0.9880943500000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="15.3989092" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment]" startingAgent="RandomBidderExample@50" currentTime="Thu Nov 21 00:03:35 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3787" deadline="1000rounds">
+<resultsOfAgent agent="RandomBidderExample@50" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="RandomBidderExample" finalUtility="0.7341666666666667" discountedUtility="0.7341666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@51" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent3" finalUtility="0.2834137873743109" discountedUtility="0.2834137873743109" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@52" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.7806775944452613" discountedUtility="0.7806775944452613" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@53" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9761896000000001" discountedUtility="0.9761896000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="8.8928299" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent1@54" currentTime="Thu Nov 21 00:03:44 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3849" deadline="1000rounds">
+<resultsOfAgent agent="Agent1@54" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent1" finalUtility="0.7341666666666667" discountedUtility="0.7341666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomBidderExample@55" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="RandomBidderExample" finalUtility="0.2834137873743109" discountedUtility="0.2834137873743109" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@56" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.7806775944452613" discountedUtility="0.7806775944452613" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@57" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9761896000000001" discountedUtility="0.9761896000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="15.5184532" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help]" startingAgent="Agent2@58" currentTime="Thu Nov 21 00:04:00 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help])" domain="etc/templates/partydomain/party_domain.xml" bids="3864" deadline="1000rounds">
+<resultsOfAgent agent="Agent2@58" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent2" finalUtility="0.7466666666666667" discountedUtility="0.7466666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomBidderExample@59" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="RandomBidderExample" finalUtility="0.2914457145208862" discountedUtility="0.2914457145208862" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@60" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.7972242871827151" discountedUtility="0.7972242871827151" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@61" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9523801000000001" discountedUtility="0.9523801000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="15.3520804" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent3@62" currentTime="Thu Nov 21 00:04:15 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3854" deadline="1000rounds">
+<resultsOfAgent agent="Agent3@62" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent3" finalUtility="0.7091666666666666" discountedUtility="0.7091666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomBidderExample@63" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="RandomBidderExample" finalUtility="0.4481811729268628" discountedUtility="0.4481811729268628" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@64" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.8000164999645744" discountedUtility="0.8000164999645744" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@65" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9999991" discountedUtility="0.9999991" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="8.5783907" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment]" startingAgent="RandomBidderExample@66" currentTime="Thu Nov 21 00:04:24 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3884" deadline="1000rounds">
+<resultsOfAgent agent="RandomBidderExample@66" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="RandomBidderExample" finalUtility="0.7341666666666667" discountedUtility="0.7341666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomBidderExample@67" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="RandomBidderExample" finalUtility="0.2834137873743109" discountedUtility="0.2834137873743109" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@68" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent1" finalUtility="0.7806775944452613" discountedUtility="0.7806775944452613" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@69" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9761896000000001" discountedUtility="0.9761896000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="15.8140286" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent1@70" currentTime="Thu Nov 21 00:04:39 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3913" deadline="1000rounds">
+<resultsOfAgent agent="Agent1@70" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent1" finalUtility="0.6458333333333334" discountedUtility="0.6458333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@71" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.4719926821285791" discountedUtility="0.4719926821285791" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@72" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.7339995008770163" discountedUtility="0.7339995008770163" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@73" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9523801000000001" discountedUtility="0.9523801000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="24.5543713" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent2@74" currentTime="Thu Nov 21 00:05:04 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3906" deadline="1000rounds">
+<resultsOfAgent agent="Agent2@74" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent2" finalUtility="0.7466666666666667" discountedUtility="0.7466666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@75" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.26693704881905567" discountedUtility="0.26693704881905567" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@76" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.7729420322375361" discountedUtility="0.7729420322375361" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@77" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9880943500000001" discountedUtility="0.9880943500000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="24.7176731" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent3@82" currentTime="Thu Nov 21 00:05:29 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3901" deadline="1000rounds">
+<resultsOfAgent agent="Agent3@82" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent3" finalUtility="0.5666666666666667" discountedUtility="0.5666666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@83" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.3609668810394907" discountedUtility="0.3609668810394907" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@84" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.8890967632798443" discountedUtility="0.8890967632798443" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@85" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.976189575" discountedUtility="0.976189575" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="17.4336929" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment]" startingAgent="RandomBidderExample@92" currentTime="Thu Nov 21 00:05:46 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3930" deadline="1000rounds">
+<resultsOfAgent agent="RandomBidderExample@92" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="RandomBidderExample" finalUtility="0.7216666666666667" discountedUtility="0.7216666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@93" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.46465791148211794" discountedUtility="0.46465791148211794" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@94" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.7884131566529866" discountedUtility="0.7884131566529866" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@95" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9642848500000001" discountedUtility="0.9642848500000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="23.1943294" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent1@96" currentTime="Thu Nov 21 00:06:10 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3881" deadline="1000rounds">
+<resultsOfAgent agent="Agent1@96" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent1" finalUtility="0.7091666666666666" discountedUtility="0.7091666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@97" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.4481811729268628" discountedUtility="0.4481811729268628" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@98" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.8000164999645744" discountedUtility="0.8000164999645744" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@99" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9999991" discountedUtility="0.9999991" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="28.6561287" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent2@100" currentTime="Thu Nov 21 00:06:38 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3879" deadline="1000rounds">
+<resultsOfAgent agent="Agent2@100" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent2" finalUtility="0.7466666666666667" discountedUtility="0.7466666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@101" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.26693704881905567" discountedUtility="0.26693704881905567" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@102" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.7729420322375361" discountedUtility="0.7729420322375361" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@103" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9880943500000001" discountedUtility="0.9880943500000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="28.88572" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Hired Help]" startingAgent="Agent3@108" currentTime="Thu Nov 21 00:07:07 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Hired Help])" domain="etc/templates/partydomain/party_domain.xml" bids="3877" deadline="1000rounds">
+<resultsOfAgent agent="Agent3@108" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent3" finalUtility="0.7341666666666667" discountedUtility="0.7341666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@109" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.3079224530761414" discountedUtility="0.3079224530761414" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@110" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.8049598493904403" discountedUtility="0.8049598493904403" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@111" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.94047535" discountedUtility="0.94047535" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="22.4475561" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="RandomBidderExample@118" currentTime="Thu Nov 21 00:07:30 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3902" deadline="1000rounds">
+<resultsOfAgent agent="RandomBidderExample@118" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="RandomBidderExample" finalUtility="0.7091666666666666" discountedUtility="0.7091666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@119" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.4481811729268628" discountedUtility="0.4481811729268628" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@120" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.8000164999645744" discountedUtility="0.8000164999645744" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@121" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9999991" discountedUtility="0.9999991" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="22.3595857" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent1@122" currentTime="Thu Nov 21 00:07:52 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3775" deadline="1000rounds">
+<resultsOfAgent agent="Agent1@122" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent1" finalUtility="0.7466666666666667" discountedUtility="0.7466666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@123" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent3" finalUtility="0.26693704881905567" discountedUtility="0.26693704881905567" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@124" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.7729420322375361" discountedUtility="0.7729420322375361" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@125" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9880943500000001" discountedUtility="0.9880943500000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="29.6835729" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent2@136" currentTime="Thu Nov 21 00:08:22 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3777" deadline="1000rounds">
+<resultsOfAgent agent="Agent2@136" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent2" finalUtility="0.7216666666666667" discountedUtility="0.7216666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@137" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent3" finalUtility="0.46465791148211794" discountedUtility="0.46465791148211794" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@138" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.7884131566529866" discountedUtility="0.7884131566529866" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@139" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9642848500000001" discountedUtility="0.9642848500000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="29.4410622" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Hired Help]" startingAgent="Agent3@148" currentTime="Thu Nov 21 00:08:52 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Hired Help])" domain="etc/templates/partydomain/party_domain.xml" bids="3770" deadline="1000rounds">
+<resultsOfAgent agent="Agent3@148" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent3" finalUtility="0.7341666666666667" discountedUtility="0.7341666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@149" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent3" finalUtility="0.3079224530761414" discountedUtility="0.3079224530761414" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@150" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.8049598493904403" discountedUtility="0.8049598493904403" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@151" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.94047535" discountedUtility="0.94047535" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="24.6329964" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="RandomBidderExample@152" currentTime="Thu Nov 21 00:09:17 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3804" deadline="1000rounds">
+<resultsOfAgent agent="RandomBidderExample@152" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="RandomBidderExample" finalUtility="0.7091666666666666" discountedUtility="0.7091666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@153" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent3" finalUtility="0.4481811729268628" discountedUtility="0.4481811729268628" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@154" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.8000164999645744" discountedUtility="0.8000164999645744" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@155" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9999991" discountedUtility="0.9999991" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="17.5774494" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent1@158" currentTime="Thu Nov 21 00:09:34 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3867" deadline="1000rounds">
+<resultsOfAgent agent="Agent1@158" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent1" finalUtility="0.8958333333333334" discountedUtility="0.8958333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomBidderExample@159" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="RandomBidderExample" finalUtility="0.4291528300621356" discountedUtility="0.4291528300621356" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@160" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.6482067331217174" discountedUtility="0.6482067331217174" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@161" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.94047535" discountedUtility="0.94047535" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="22.4541352" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent2@162" currentTime="Thu Nov 21 00:09:57 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3868" deadline="1000rounds">
+<resultsOfAgent agent="Agent2@162" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent2" finalUtility="0.7091666666666666" discountedUtility="0.7091666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomBidderExample@163" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="RandomBidderExample" finalUtility="0.4481811729268628" discountedUtility="0.4481811729268628" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@164" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.8000164999645744" discountedUtility="0.8000164999645744" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@165" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9999991" discountedUtility="0.9999991" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="22.8519863" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent3@166" currentTime="Thu Nov 21 00:10:20 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3860" deadline="1000rounds">
+<resultsOfAgent agent="Agent3@166" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent3" finalUtility="0.5883333333333333" discountedUtility="0.5883333333333333" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomBidderExample@167" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="RandomBidderExample" finalUtility="0.21443605261932142" discountedUtility="0.21443605261932142" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@168" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.8405454281228829" discountedUtility="0.8405454281228829" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@169" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.8928563" discountedUtility="0.8928563" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="16.650548" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="RandomBidderExample@172" currentTime="Thu Nov 21 00:10:36 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3885" deadline="1000rounds">
+<resultsOfAgent agent="RandomBidderExample@172" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="RandomBidderExample" finalUtility="0.7091666666666666" discountedUtility="0.7091666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomBidderExample@173" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="RandomBidderExample" finalUtility="0.4481811729268628" discountedUtility="0.4481811729268628" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@174" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent2" finalUtility="0.8000164999645744" discountedUtility="0.8000164999645744" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@175" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9999991" discountedUtility="0.9999991" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="17.6779674" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent1@176" currentTime="Thu Nov 21 00:10:54 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3885" deadline="1000rounds">
+<resultsOfAgent agent="Agent1@176" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent1" finalUtility="0.6041666666666666" discountedUtility="0.6041666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@177" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.17972275693168355" discountedUtility="0.17972275693168355" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@178" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent3" finalUtility="0.8620222955528061" discountedUtility="0.8620222955528061" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@179" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.964284825" discountedUtility="0.964284825" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="24.4406653" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent2@180" currentTime="Thu Nov 21 00:11:19 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3892" deadline="1000rounds">
+<resultsOfAgent agent="Agent2@180" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent2" finalUtility="0.7091666666666666" discountedUtility="0.7091666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@181" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.4481811729268628" discountedUtility="0.4481811729268628" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@182" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent3" finalUtility="0.8000164999645744" discountedUtility="0.8000164999645744" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@183" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9999991" discountedUtility="0.9999991" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="29.7388299" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent3@186" currentTime="Thu Nov 21 00:11:49 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3890" deadline="1000rounds">
+<resultsOfAgent agent="Agent3@186" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent3" finalUtility="0.5666666666666667" discountedUtility="0.5666666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@187" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.3609668810394907" discountedUtility="0.3609668810394907" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@188" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent3" finalUtility="0.8890967632798443" discountedUtility="0.8890967632798443" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@189" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.976189575" discountedUtility="0.976189575" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="19.6509909" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment]" startingAgent="RandomBidderExample@192" currentTime="Thu Nov 21 00:12:08 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3917" deadline="1000rounds">
+<resultsOfAgent agent="RandomBidderExample@192" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="RandomBidderExample" finalUtility="0.7341666666666667" discountedUtility="0.7341666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@193" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent1" finalUtility="0.2834137873743109" discountedUtility="0.2834137873743109" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@194" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent3" finalUtility="0.7806775944452613" discountedUtility="0.7806775944452613" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@195" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9761896000000001" discountedUtility="0.9761896000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="25.0097067" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent1@200" currentTime="Thu Nov 21 00:12:33 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3873" deadline="1000rounds">
+<resultsOfAgent agent="Agent1@200" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent1" finalUtility="0.7091666666666666" discountedUtility="0.7091666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@201" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.4481811729268628" discountedUtility="0.4481811729268628" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@202" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent3" finalUtility="0.8000164999645744" discountedUtility="0.8000164999645744" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@203" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9999991" discountedUtility="0.9999991" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="37.3200241" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help]" startingAgent="Agent2@206" currentTime="Thu Nov 21 00:13:11 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help])" domain="etc/templates/partydomain/party_domain.xml" bids="3856" deadline="1000rounds">
+<resultsOfAgent agent="Agent2@206" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent2" finalUtility="0.7466666666666667" discountedUtility="0.7466666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@207" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.2914457145208862" discountedUtility="0.2914457145208862" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@208" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent3" finalUtility="0.7972242871827151" discountedUtility="0.7972242871827151" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@209" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.9523801000000001" discountedUtility="0.9523801000000001" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome runtime="42.4692873" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment]" startingAgent="Agent3@212" currentTime="Thu Nov 21 00:13:53 JST 2019" timeOfAgreement="0.99000999000999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="3867" deadline="1000rounds">
+<resultsOfAgent agent="Agent3@212" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="Agent3" finalUtility="0.6041666666666666" discountedUtility="0.6041666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent2@213" agentDesc="Offer near utility 1-t^5" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="Agent2" finalUtility="0.17972275693168355" discountedUtility="0.17972275693168355" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent3@214" agentDesc="Offer in ascending order" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="Agent3" finalUtility="0.8620222955528061" discountedUtility="0.8620222955528061" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1@215" agentDesc="Places random bids &gt;= 0.85" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="Agent1" finalUtility="0.964284825" discountedUtility="0.964284825" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>

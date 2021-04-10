@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>agents.anac.y2016.yxagent.YXAgent</agentname>
+        <totalUndiscountedUtility>24.433484129084537</totalUndiscountedUtility>
+        <totalDiscountedUtility>24.433484129084537</totalDiscountedUtility>
+        <numberOfSessions>27</numberOfSessions>
+        <totalNashDist>4.088258055833519</totalNashDist>
+        <totalWelfare>44.97017069771449</totalWelfare>
+        <totalParetoDistance>1.3613009399183769</totalParetoDistance>
+        <meanDiscounted>0.9049438566327607</meanDiscounted>
+        <meanNashDistance>0.15141696503087107</meanNashDistance>
+        <meanParetoDistance>0.050418553330310256</meanParetoDistance>
+        <meanUndiscounted>0.9049438566327607</meanUndiscounted>
+        <meanWelfare>1.6655618776931291</meanWelfare>
+    </statistics>
+</agentsStatistics>

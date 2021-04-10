@@ -1,0 +1,4 @@
+1,1,0.009900990099009901,Ngent@0,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials])
+1,2,0.009900990099009901,Agent1@1,(Offer  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])
+2,1,0.019801980198019802,Ngent@0,(EndNegotiation)
+ended-no-agreement

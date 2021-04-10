@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Sun Jan 19 19:45:25 JST 2020" lastAction="(Offer  bid:Bid[a: a2, b: b3, c: c2, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="22398" runtime="60.0000024" finalOutcome="-" startingAgent="boa-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Offering2-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Acceptance1_b_a-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Model1_l-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Strategy1_t@70" deadline="60s">
+<resultsOfAgent agent="boa-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Offering2-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Acceptance1_b_a-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Model1_l-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Strategy1_t@70" agentDesc="BOA(Acceptance1 SAIL,Offering2 (t^4),HardHeaded Frequency Model 1,OpponentModelStrategy(return BestBid))" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@71" agentDesc="ANAC2016" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

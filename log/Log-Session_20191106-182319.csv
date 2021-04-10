@@ -1,0 +1,4 @@
+1,1,9.99000999000999E-4,Agent1@2,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Ballroom, Invitations: Plain, Music: DJ, Cleanup: Hired Help])
+1,2,9.99000999000999E-4,RandomBidderExample@3,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Custom, Printed, Music: Band, Cleanup: Water and Soap])
+2,1,0.001998001998001998,Agent1@2,(EndNegotiation)
+ended-no-agreement

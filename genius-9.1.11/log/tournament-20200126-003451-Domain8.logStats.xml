@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <totalUndiscountedUtility>0.8042174264533444</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.8042174264533444</totalDiscountedUtility>
+        <numberOfSessions>1</numberOfSessions>
+        <totalNashDist>0.09908616012501721</totalNashDist>
+        <totalWelfare>1.5584867700371374</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.8042174264533444</meanDiscounted>
+        <meanNashDistance>0.09908616012501721</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>0.8042174264533444</meanUndiscounted>
+        <meanWelfare>1.5584867700371374</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>agents.anac.y2011.HardHeaded.KLH</agentname>
+        <totalUndiscountedUtility>0.7542693435837929</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.7542693435837929</totalDiscountedUtility>
+        <numberOfSessions>1</numberOfSessions>
+        <totalNashDist>0.09908616012501721</totalNashDist>
+        <totalWelfare>1.5584867700371374</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.7542693435837929</meanDiscounted>
+        <meanNashDistance>0.09908616012501721</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>0.7542693435837929</meanUndiscounted>
+        <meanWelfare>1.5584867700371374</meanWelfare>
+    </statistics>
+</agentsStatistics>

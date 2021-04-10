@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Sun Jan 19 15:55:47 JST 2020" timeOfAgreement="0.9990720233333333" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="29149" runtime="59.9233057" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap]" startingAgent="Atlas3@0" deadline="60s">
+<resultsOfAgent agent="Atlas3@0" agentDesc="ANAC2015" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2015.Atlas3.Atlas3" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Offering2-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Acceptance1_b_a-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Model1_l-C..Users.takum.IdeaProjects.SAIL.out.production.SAIL.boacomponents.Strategy1_t@1" agentDesc="BOA(Acceptance1 SAIL,Offering2 (t^4),HardHeaded Frequency Model 1,OpponentModelStrategy(return BestBid))" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>
